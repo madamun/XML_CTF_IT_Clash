@@ -1,0 +1,19 @@
+{
+  "name": "backend-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "libxmljs": "^1.0.11",
+    "libxmljs2": "^0.35.0",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.34"
+  }
+}

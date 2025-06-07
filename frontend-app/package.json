@@ -1,0 +1,46 @@
+{
+  "name": "frontend-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.6",
+    "antd": "^5.25.1",
+    "libxmljs2": "^0.35.0",
+    "pnpm": "^10.10.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-helmet-async": "^2.0.5",
+    "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {
+    "@chromatic-com/storybook": "^3.2.6",
+    "@eslint/js": "^9.25.0",
+    "@storybook/addon-essentials": "8.6.12",
+    "@storybook/addon-onboarding": "8.6.12",
+    "@storybook/blocks": "8.6.12",
+    "@storybook/experimental-addon-test": "8.6.12",
+    "@storybook/react": "8.6.12",
+    "@storybook/react-vite": "8.6.12",
+    "@storybook/test": "8.6.12",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^4.4.1",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.25.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "eslint-plugin-storybook": "^0.12.0",
+    "globals": "^16.0.0",
+    "postcss": "^8.5.3",
+    "prop-types": "15.8.1",
+    "tailwindcss": "^4.1.6",
+    "vite": "^6.3.5"
+  }
+}
